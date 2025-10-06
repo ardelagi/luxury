@@ -1,64 +1,64 @@
 # ========================================
 # LUXURY VIP - DATA FILE
 # ========================================
-# Format FAQ: Question|Answer
-# Format Products: Category|Name|Price|Description|Stock
+# Format FAQ: Question | Answer
+# Format Products: Category | Name | Price | Description | Stock
 # ========================================
 
-[FAQ]
-Bagaimana cara membeli produk?|**Cara Pembelian Produk Luxury VIP:**\n\n1️⃣ Pilih produk yang diinginkan\n2️⃣ Hubungi admin via Discord/WhatsApp\n3️⃣ Transfer sesuai nominal\n4️⃣ Kirim bukti transfer\n5️⃣ Produk akan dikirim maksimal 1x24 jam\n\n💡 *Gunakan !stock untuk cek ketersediaan produk*
-Metode pembayaran apa saja yang diterima?|**Metode Pembayaran yang Tersedia:**\n\n💳 Transfer Bank: BCA, Mandiri, BRI\n💰 E-Wallet: OVO, GoPay, DANA\n\n⚠️ Pembayaran hanya melalui metode resmi!
-Apakah ada garansi atau refund?|**Kebijakan Garansi:**\n\n✅ Garansi 7 hari untuk produk digital\n✅ Refund 100% jika produk tidak sesuai deskripsi\n❌ Tidak ada refund untuk kesalahan pembeli\n\n📝 Klaim garansi hubungi admin dengan bukti pembelian
-Berapa lama proses pengiriman?|**Estimasi Waktu Pengiriman:**\n\n⚡ Produk Digital: 1-6 jam\n📦 Produk Game: 1-24 jam\n🎮 VIP Access: Instant - 12 jam\n\n⏰ Proses lebih cepat pada jam kerja (09:00 - 21:00 WIB)
-Bagaimana cara menghubungi customer service?|**Hubungi Customer Service:**\n\n💬 Discord: Server Luxury VIP\n📱 WhatsApp: 08xx-xxxx-xxxx\n📧 Email: support@luxuryvip.com\n\n🕐 Jam Operasional: 09:00 - 22:00 WIB\n⚡ Response time: < 1 jam
-Apakah aman membeli disini?|**Jaminan Keamanan:**\n\n🔒 Transaksi aman & terpercaya\n✅ Sudah melayani 1000+ customer\n⭐ Rating 4.9/5.0\n💯 Produk original & legal\n\nLihat testimoni di channel #testimoni!
-Bagaimana cara cek status pesanan?|**Cek Status Pesanan:**\n\n1. Hubungi admin dengan nomor order\n2. Atau cek di channel #order-status\n3. Bot akan update otomatis via DM\n\n📱 Notifikasi otomatis saat pesanan diproses
-Apakah bisa custom request?|**Custom Request:**\n\n✅ Bisa! Hubungi admin untuk request khusus\n💰 Harga disesuaikan dengan tingkat kesulitan\n⏱️ Estimasi pengerjaan 1-7 hari\n\n📝 Minimal order untuk custom: Rp 500.000
+[FAQ
+Bagaimana cara membeli produk? | **Cara Pembelian Produk Luxury VIP:**\n\n1️⃣ Pilih produk yang diinginkan\n2️⃣ Hubungi admin via Discord/WhatsApp\n3️⃣ Transfer sesuai nominal\n4️⃣ Kirim bukti transfer\n5️⃣ Produk akan dikirim maksimal 1x24 jam\n\n💡 *Gunakan !stock untuk cek ketersediaan produk*
+Metode pembayaran apa saja yang diterima? | **Metode Pembayaran yang Tersedia:**\n\n💳 Transfer Bank: BCA, Mandiri, BRI\n💰 E-Wallet: OVO, GoPay, DANA\n\n⚠️ Pembayaran hanya melalui metode resmi!
+Apakah ada garansi atau refund? | **Kebijakan Garansi:**\n\n✅ Garansi 7 hari untuk produk digital\n✅ Refund 100% jika produk tidak sesuai deskripsi\n❌ Tidak ada refund untuk kesalahan pembeli\n\n📝 Klaim garansi hubungi admin dengan bukti pembelian
+Berapa lama proses pengiriman? | **Estimasi Waktu Pengiriman:**\n\n⚡ Produk Digital: 1-6 jam\n📦 Produk Game: 1-24 jam\n🎮 VIP Access: Instant - 12 jam\n\n⏰ Proses lebih cepat pada jam kerja (09:00 - 21:00 WIB)
+Bagaimana cara menghubungi customer service? | **Hubungi Customer Service:**\n\n💬 Discord: Server Luxury VIP\n📱 WhatsApp: 08xx-xxxx-xxxx\n📧 Email: support@luxuryvip.com\n\n🕐 Jam Operasional: 09:00 - 22:00 WIB\n⚡ Response time: < 1 jam
+Apakah aman membeli disini? | **Jaminan Keamanan:**\n\n🔒 Transaksi aman & terpercaya\n✅ Sudah melayani 1000+ customer\n⭐ Rating 4.9/5.0\n💯 Produk original & legal\n\nLihat testimoni di channel #testimoni!
+Bagaimana cara cek status pesanan? | **Cek Status Pesanan:**\n\n1. Hubungi admin dengan nomor order\n2. Atau cek di channel #order-status\n3. Bot akan update otomatis via DM\n\n📱 Notifikasi otomatis saat pesanan diproses
+Apakah bisa custom request? | **Custom Request:**\n\n✅ Bisa! Hubungi admin untuk request khusus\n💰 Harga disesuaikan dengan tingkat kesulitan\n⏱️ Estimasi pengerjaan 1-7 hari\n\n📝 Minimal order untuk custom: Rp 500.000
 
 [PRODUCTS]
 # Kategori VIP Membership
-VIP|VIP Gold 30 Hari|500000|Akses VIP premium selama 30 hari dengan semua benefit eksklusif|Tersedia
-VIP|VIP Silver 15 Hari|300000|Akses VIP silver selama 15 hari dengan benefit terbatas|Tersedia
-VIP|VIP Platinum 90 Hari|1200000|Akses VIP platinum 3 bulan dengan benefit maximum dan priority support|Tersedia
-VIP|VIP Bronze 7 Hari|150000|Trial VIP selama 7 hari untuk mencoba fitur VIP|Tersedia
+VIP | VIP Gold 30 Hari | 500000 | Akses VIP premium selama 30 hari dengan semua benefit eksklusif | Tersedia
+VIP | VIP Silver 15 Hari | 300000 | Akses VIP silver selama 15 hari dengan benefit terbatas | Tersedia
+VIP | VIP Platinum 90 Hari | 1200000 | Akses VIP platinum 3 bulan dengan benefit maximum dan priority support | Tersedia
+VIP | VIP Bronze 7 Hari | 150000 | Trial VIP selama 7 hari untuk mencoba fitur VIP | Tersedia
 
 # Kategori Kendaraan
-Mobil|Elegy Sport|250000|Mobil sport premium dengan modifikasi lengkap dan performa maksimal|5 unit
-Mobil|Infernus Supercar|450000|Supercar tercepat dengan desain eksklusif dan handling terbaik|3 unit
-Mobil|Sultan Custom|180000|Sedan sport dengan custom body kit dan turbo upgrade|Tersedia
-Mobil|Bullet GT|380000|Grand tourer dengan kecepatan tinggi dan interior mewah|2 unit
-Motor|NRG-500|120000|Motor sport racing dengan akselerasi kilat dan handling presisi|Tersedia
-Motor|FCR-900|95000|Motor custom cruiser dengan style klasik modern|Tersedia
-Motor|Hakuchou Drag|150000|Drag bike dengan top speed tertinggi di kelasnya|4 unit
+Mobil | Elegy Sport | 250000 | Mobil sport premium dengan modifikasi lengkap dan performa maksimal | 5 unit
+Mobil | Infernus Supercar | 450000 | Supercar tercepat dengan desain eksklusif dan handling terbaik | 3 unit
+Mobil | Sultan Custom | 180000 | Sedan sport dengan custom body kit dan turbo upgrade | Tersedia
+Mobil | Bullet GT | 380000 | Grand tourer dengan kecepatan tinggi dan interior mewah | 2 unit
+Motor | NRG-500 | 120000 | Motor sport racing dengan akselerasi kilat dan handling presisi | Tersedia
+Motor | FCR-900 | 95000 | Motor custom cruiser dengan style klasik modern | Tersedia
+Motor | Hakuchou Drag | 150000 | Drag bike dengan top speed tertinggi di kelasnya | 4 unit
 
 # Kategori Properti
-Rumah|Grove Street Mansion|1000000|Rumah mewah 3 lantai di lokasi premium dengan garasi 4 mobil|Habis
-Rumah|Vinewood Hills Villa|1500000|Villa eksklusif dengan pemandangan kota dan kolam renang infinity|2 unit
-Rumah|Beach House Santa Maria|800000|Rumah pantai dengan akses private beach dan dermaga|Tersedia
-Apartemen|Downtown Penthouse|600000|Penthouse lantai 30 dengan view 360 derajat dan helipad|Tersedia
-Apartemen|Marina Studio|350000|Studio apartment modern dekat marina dengan fasilitas lengkap|5 unit
-Bisnis|24/7 Store Franchise|450000|Toko retail franchise dengan passive income Rp 50k/hari|Tersedia
-Bisnis|Car Dealership|900000|Dealer mobil dengan showroom dan passive income Rp 100k/hari|1 unit
+Rumah | Grove Street Mansion | 1000000 | Rumah mewah 3 lantai di lokasi premium dengan garasi 4 mobil | Habis
+Rumah | Vinewood Hills Villa | 1500000 | Villa eksklusif dengan pemandangan kota dan kolam renang infinity | 2 unit
+Rumah | Beach House Santa Maria | 800000 | Rumah pantai dengan akses private beach dan dermaga | Tersedia
+Apartemen | Downtown Penthouse | 600000 | Penthouse lantai 30 dengan view 360 derajat dan helipad | Tersedia
+Apartemen | Marina Studio | 350000 | Studio apartment modern dekat marina dengan fasilitas lengkap | 5 unit
+Bisnis | 24/7 Store Franchise | 450000 | Toko retail franchise dengan passive income Rp 50k/hari | Tersedia
+Bisnis | Car Dealership | 900000 | Dealer mobil dengan showroom dan passive income Rp 100k/hari | 1 unit
 
 # Kategori Senjata & Amunisi
-Senjata|AK-47 Legendary|150000|Senapan serbu legendary dengan skin eksklusif dan stats maximum|Tersedia
-Senjata|Desert Eagle Gold|85000|Pistol gold edition dengan damage tinggi dan akurasi sempurna|Tersedia
-Senjata|M4A1 Tactical|120000|Senapan assault tactical dengan scope dan silencer|Tersedia
-Senjata|AWP Sniper Elite|200000|Sniper rifle dengan jarak tembak jauh dan one shot kill|3 unit
-Senjata|MP5 SMG|65000|Submachine gun ringan dengan fire rate tinggi|Tersedia
-Amunisi|Ammo Pack 1000 Rounds|25000|Paket amunisi 1000 peluru untuk semua jenis senjata|Tersedia
-Amunisi|Explosive Pack|50000|Paket granat, C4, dan RPG untuk misi special|Tersedia
+Senjata | AK-47 Legendary | 150000 | Senapan serbu legendary dengan skin eksklusif dan stats maximum | Tersedia
+Senjata | Desert Eagle Gold | 85000 | Pistol gold edition dengan damage tinggi dan akurasi sempurna | Tersedia
+Senjata | M4A1 Tactical | 120000 | Senapan assault tactical dengan scope dan silencer | Tersedia
+Senjata | AWP Sniper Elite | 200000 | Sniper rifle dengan jarak tembak jauh dan one shot kill | 3 unit
+Senjata | MP5 SMG | 65000 | Submachine gun ringan dengan fire rate tinggi | Tersedia
+Amunisi | Ammo Pack 1000 Rounds | 25000 | Paket amunisi 1000 peluru untuk semua jenis senjata | Tersedia
+Amunisi | Explosive Pack | 50000 | Paket granat, C4, dan RPG untuk misi special | Tersedia
 
 # Kategori Item Special
-Special|Parachute Custom|35000|Parasut custom dengan design eksklusif dan warna pilihan|Tersedia
-Special|Armor Vest Level 5|80000|Rompi anti peluru level 5 dengan durability maksimal|Tersedia
-Special|GPS Tracker Pro|45000|GPS tracking system dengan real-time update dan waypoint|Tersedia
-Special|Nitro Boost Kit|95000|Kit nitro untuk mobil dengan 10x boost usage|Tersedia
-Special|Health Kit Bundle|40000|Bundle med kit, bandage, dan adrenaline shot|Tersedia
+Special | Parachute Custom | 35000 | Parasut custom dengan design eksklusif dan warna pilihan | Tersedia
+Special | Armor Vest Level 5 | 80000 | Rompi anti peluru level 5 dengan durability maksimal | Tersedia
+Special | GPS Tracker Pro | 45000 | GPS tracking system dengan real-time update dan waypoint | Tersedia
+Special | Nitro Boost Kit | 95000 | Kit nitro untuk mobil dengan 10x boost usage | Tersedia
+Special | Health Kit Bundle | 40000 | Bundle med kit, bandage, dan adrenaline shot | Tersedia
 
 # Kategori Skin & Cosmetic
-Skin|Character Skin Premium|75000|Skin karakter eksklusif dengan animasi custom|Tersedia
-Skin|Vehicle Wrap Custom|55000|Custom wrap untuk kendaraan dengan design pilihan|Tersedia
-Skin|Weapon Skin Dragon|90000|Skin senjata motif naga dengan efek api|2 unit
-Cosmetic|Name Tag Color|20000|Tag nama berwarna untuk profile|Tersedia
-Cosmetic|Chat Bubble Custom|30000|Custom chat bubble dengan animasi|Tersedia
+Skin | Character Skin Premium | 75000 | Skin karakter eksklusif dengan animasi custom | Tersedia
+Skin | Vehicle Wrap Custom | 55000 | Custom wrap untuk kendaraan dengan design pilihan | Tersedia
+Skin | Weapon Skin Dragon | 90000 | Skin senjata motif naga dengan efek api | 2 unit
+Cosmetic | Name Tag Color | 20000 | Tag nama berwarna untuk profile | Tersedia
+Cosmetic | Chat Bubble Custom | 30000 | Custom chat bubble dengan animasi | Tersedia
